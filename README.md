@@ -1,2 +1,2 @@
 # project1
-my first code on git
+my first project on git
